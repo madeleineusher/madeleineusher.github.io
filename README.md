@@ -1,4 +1,4 @@
 # Project 2
-One paragraph description goes here.
+[Link to Hello-World Repo](https://github.com/madeleineusher/hello-world.git)
 
 ## Deployment
